@@ -1,6 +1,6 @@
 ### My Resume
 
-Check this out here: *https://reshmajagan.github.io/Resume/*
+Check this out here: https://reshmajagan.github.io/Resume/
 
 Look through:
 1. Resume page
